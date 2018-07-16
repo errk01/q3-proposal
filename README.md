@@ -7,6 +7,7 @@ by: Erik Taylor
 who will use it?
 ---------
  This application will be used by Mechanics. This will help with ordering parts and speeding up the processes to get your vehicle back on the road. The application will be able to be opened on a tablet or desktop computer. This will allow the mechanic to have a faster access to ordering the parts that are needed for the vehicle.
+ 
 outputs 
 ----------
 The username of who is logged in, vehicle info, the notes, the part, the year, make, model, type, engine: size/ liter
