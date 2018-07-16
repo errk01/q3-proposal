@@ -18,7 +18,7 @@ input
 
 Technologies
 ---------
-react-redux, bootswatch, react-router, sql or mongo
+react-redux, bootswatch, react-router, PostgreSQL
 
 Discription
 -----------
